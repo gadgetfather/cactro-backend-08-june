@@ -1,6 +1,6 @@
 {
   "name": "gadgetfather",
-  "version": "1.0.2",
+  "version": "1.0.5",
   "description": "My professional resume as an NPM package",
   "main": "index.js",
   "bin": {
