@@ -10,7 +10,7 @@ const text = chalk.white;
 const listItem = chalk.yellowBright;
 
 console.log(chalk.bold.yellowBright('\n                          Akshay Kamble\n'));
-console.log(text(`           Pune, India | +91-8983415767 | kamblea635@gmail.com`));
+console.log(text(`           Pune, India  | kamblea635@gmail.com`));
 console.log(text(`           LinkedIn: ${link('linkedin.com/in/gadgetfather')} | GitHub: ${link('github.com/gadgetfather')}\n`));
 
 console.log(heading('-----------------------------------------------------------------------'));
