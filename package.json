@@ -1,0 +1,24 @@
+{
+  "name": "gadgetfather",
+  "version": "1.0.1",
+  "description": "My professional resume as an NPM package",
+  "main": "index.js",
+  "bin": {
+    "gadgetfather": "./index.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "resume",
+    "cv",
+    "cli",
+    "terminal"
+  ],
+  "author": "GadgetFather",
+  "license": "MIT",
+  "dependencies": {
+    "chalk": "^4.1.2",
+    "boxen": "^5.1.2"
+  }
+} 
